@@ -1,6 +1,6 @@
 # 📦 Food Delivery Dashboard | Power BI
 
-This repository contains a Power BI dashboard developed to analyze and visualize food delivery data for **DoorDash**. The project provides deep insights into user performance, order trends, sales by city, and customer preferences (Veg vs Non-Veg), enabling better business decisions through data-driven visuals.
+This repository contains a Power BI dashboard developed to analyze and visualize food delivery data. The project provides deep insights into user performance, order trends, sales by city, and customer preferences (Veg vs Non-Veg), enabling better business decisions through data-driven visuals.
 
 ![Overview](https://github.com/user-attachments/assets/ced5003d-6360-4331-a58e-6507ee51fcd7)
 
